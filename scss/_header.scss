@@ -1,0 +1,40 @@
+.header {
+    position: absolute;
+    width: 1600px;
+    height: 800px;
+    overflow: hidden;
+}
+.header-menu {
+    background: url(../img/Layer7.png)no-repeat;
+    height: 800px;
+}
+.header-row {
+    padding-top: 35px;
+    display: flex;
+    gap: 63px;
+    justify-content: center;
+    align-items: center;
+}
+.header-left {
+}
+.about {
+    font-family: 'Lato';
+    font-size: 13px;
+    text-transform: uppercase;
+    color: #4d4959;
+    font-weight: 700;
+}
+.header-logo {
+}
+.world-spa{
+    word-spacing: 30px;
+}
+.header-right {
+}
+.header-contact {
+    font-family: 'Lato';
+    font-size: 13px;
+    text-transform: uppercase;
+    color: #4d4959;
+    font-weight: 700;
+}
