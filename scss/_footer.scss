@@ -1,6 +1,7 @@
 .footer {
-    width: 1600px;
-    height: 250px;
+    max-width: 1600px;
+    width: 100%;
+    max-height: 250px;
     background-color: #f7f7f7;
     padding-top: 100px;
 }
@@ -41,4 +42,4 @@
     font-family: "Lato";
     text-align: right;
 }
-.footer-right-icon { }
+.footer-right-icon {}
