@@ -37,24 +37,22 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
 /*--------------------*/
 .wrapper{
-    width: 100%;
-    max-width: 1600px;
-    max-height: 4992px;
+    width: 1602px;
+    height: 4992px;
     margin: 0px auto;
     display: flex;
     flex-direction: column;
     overflow: hidden;
 }
 .container{
-    width: 90%;
     width: 1101px;
     margin: 0px auto;
+    flex: 1 1 auto;
 }
 /*------Содержание1--------*/
 .content { }
 .block-one {
-    width: 100%;
-    max-width: 1600px;
+    width: 1600px;
     height: 469px;
     background-color: #f7f7f7;
 }
@@ -385,7 +383,6 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
   .block-six-colum-up-row {
     display: flex;
   }
-
   .block-six-colum-up1 { }
   .block-six-colum-up2 { }
   .block-six-colum-down { }
