@@ -636,6 +636,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .b-e-e-btr {
+  font-size: 30px;
   width: 400px;
   height: 69px;
   background-color: #ffffff;
@@ -674,7 +675,8 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #64c29e;
 }
 
-.b-e-b-b-go {
+.Bed-go {
+  color: white;
   font-size: 24px;
   line-height: 24px;
   color: #ffffff;
