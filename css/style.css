@@ -675,7 +675,7 @@ h1, h2, h3, h4, h5, h6 {
   background-color: rgba(0, 255, 149, 0.5960784314);
   color: #28f8ff;
   font-weight: 700;
-  transition: all 1s cubic-bezier(0.68, 0, 0.265, 1.55);
+  transition: all 1s cubic-bezier(0.68, 0, 0.165, 2.55);
   border-radius: 50%;
   background: url("../img/github-mark.svg") no-repeat center;
 }
